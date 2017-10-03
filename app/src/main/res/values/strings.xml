@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Raw Json Test</string>
+    <string name="get_random_game">Get Random Game</string>
+    <string name="click_the_button">You should click the button</string>
+</resources>
